@@ -1,9 +1,8 @@
 # w266_final
-Final Project Repo for w266
-
-This repo contains a number of files for the final project for w266.
-These were all run via colab to make use of GPU's and TPU's.
-
+Final Project Repo for w266<br/>
+<br/>
+This repo contains a number of files for the final project for w266.<br/>
+These were all run via colab to make use of GPU's and TPU's.<br/>
 --EDA---<br/>
 1) squad_eda.ipynb: This is the notebook containing the EDA of the SQuAD v2.0 Dataset<br/>
 <br/>
