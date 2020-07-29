@@ -5,7 +5,8 @@ This repo contains a number of files for the final project for w266.
 These were all run via colab to make use of GPU's and TPU's.
 
 --EDA---
-1) squad_eda.ipynb: This is the notebook containing the EDA of the SQuAD v2.0 Dataset \n
+1) squad_eda.ipynb: This is the notebook containing the EDA of the SQuAD v2.0 Dataset
+
 ---BASELINE---
 2) Baseline.ipynb: This contains the baseline model
 
