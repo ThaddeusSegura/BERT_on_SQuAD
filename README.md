@@ -4,15 +4,15 @@ Final Project Repo for w266
 This repo contains a number of files for the final project for w266.
 These were all run via colab to make use of GPU's and TPU's.
 
---EDA---
-1) squad_eda.ipynb: This is the notebook containing the EDA of the SQuAD v2.0 Dataset
+--EDA---<br/>
+1) squad_eda.ipynb: This is the notebook containing the EDA of the SQuAD v2.0 Dataset<br/>
 
----BASELINE---
-2) Baseline.ipynb: This contains the baseline model
+---BASELINE---<br/>
+2) Baseline.ipynb: This contains the baseline model<br/>
 
----DISCRETE DATA PRESENTATION---
-3) Self_ensemble_4.ipynb: 4 way split and training of the dataset.
-4) Self_ensemble_8.ipynb: 8 way split and training of the dataset. 
+---DISCRETE DATA PRESENTATION---<br/>
+3) Self_ensemble_4.ipynb: 4 way split and training of the dataset.<br/>
+4) Self_ensemble_8.ipynb: 8 way split and training of the dataset. <br/>
 
 ---DNN FOR MODEL SLECTION---
 5) SE_8_pred_and_label.ipynb: used to generate data that was used to train the multiple choice model and the deep neural net model.
