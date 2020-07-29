@@ -12,7 +12,6 @@ These were all run via colab to make use of GPU's and TPU's.
 
 ---DISCRETE DATA PRESENTATION---
 3) Self_ensemble_4.ipynb: 4 way split and training of the dataset.
-
 4) Self_ensemble_8.ipynb: 8 way split and training of the dataset. 
 
 ---DNN FOR MODEL SLECTION---
