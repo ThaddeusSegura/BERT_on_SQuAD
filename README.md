@@ -1,8 +1,15 @@
-# w266_final
-Final Project Repo for w266<br/>
+# BERT Self-Ensemble Methods on SQuAD v2.0
+
 <br/>
-This repo contains a number of files for the final project for w266.<br/>
-These were all run via colab to make use of GPU's and TPU's.<br/>
+This repo contains a number of files relating to an exploration of Self-Ensemble methods using BERT on SQuAD v2.0.<br/>
+
+I would recommend viewing the file w266_final first, as it is a presentation which explains the overall approach.<br/>
+
+The file thaddeus_segura_w266 is a paper explaining the process more formally.<br/>
+
+Then I would move on to the relevant files you would like to explore.  All of these are notebooks as they were run in Colab, some using TPU's and others on GPU's. <br/>
+
+### Files 
 <br/>
 --EDA---<br/>
 1) squad_eda.ipynb: This is the notebook containing the EDA of the SQuAD v2.0 Dataset<br/>
